@@ -43,7 +43,7 @@ Resources:
         - DynamoDBCrudPolicy:
             TableName: !Ref ServerTable
         - SESCrudPolicy:
-            IdentityName: anna.spysz@stackery.io
+            IdentityName: mikebyce@gmail.com
       Environment:
         Variables:
           TABLE_NAME: !Ref ServerTable
