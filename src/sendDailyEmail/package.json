@@ -1,4 +1,5 @@
 {
+  "name": "senddailyemail",
   "private": true,
   "dependencies": {
     "aws-sdk": "~2"
